@@ -1,0 +1,3 @@
+https://github.com/brabadu/awesome-fonts#readme
+https://github.com/matteofigus/awesome-speaking#readme
+https://github.com/lukasz-madon/awesome-remote-job#readme
